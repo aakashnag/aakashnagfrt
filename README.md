@@ -1,4 +1,4 @@
-# CoVinAI - Covid19 Help, Info & Tracker
+# CovidCombat - Winning over Covid19 !!
 
 ## Problem Statement
 A website that allows users to communicate with the Microsoft Healthcare Bot service regarding Covid-19 queries through a Webchat interface, helps people to find covid relief services near them, displays new/total cases and deaths globally as well as per country using Microsoft azure web app services.
