@@ -14,26 +14,3 @@ The core idea of this project is to solve FAQs of the people regarding the Covid
 
 ## Project Demo URL
 https://covinai.azurewebsites.net/
-
-## Webpage Screenshots
-### CoVinAI Home Page
-<img src="https://raw.githubusercontent.com/VinayEdula/Co.VinAI/main/Web%20App/Screenshot%20(4564).png"/>
-
-### Healthcare Bot Service
-<img src="https://raw.githubusercontent.com/VinayEdula/Co.VinAI/main/Web%20App/Screenshot%20(4565).png"/>
-
-### Health Precautions
-<img src="https://raw.githubusercontent.com/VinayEdula/Co.VinAI/main/Web%20App/Screenshot%20(4566).png"/>
-
-### Covid19 Symptoms
-<img src="https://raw.githubusercontent.com/VinayEdula/Co.VinAI/main/Web%20App/Screenshot%20(4567).png"/>
-
-### Precautions Against Covid19
-<img src="https://raw.githubusercontent.com/VinayEdula/Co.VinAI/main/Web%20App/Screenshot%20(4568).png"/>
-
-### Handwash Precautions
-<img src="https://raw.githubusercontent.com/VinayEdula/Co.VinAI/main/Web%20App/Screenshot%20(4569).png"/>
-
-### Covid19 Live Cases Tracker
-<img src="https://raw.githubusercontent.com/VinayEdula/Co.VinAI/main/Web%20App/Screenshot%20(4570).png"/>
-
