@@ -13,4 +13,4 @@ The core idea of this project is to solve FAQs of the people regarding the Covid
 - Azure Storage
 
 ## Project Demo URL
-https://covinai.azurewebsites.net/
+https://aakashnagdavuluri.azurewebsites.net/
